@@ -1,0 +1,10 @@
+# requirements.txt
+
+streamlit
+matplotlib
+pandas
+numpy
+seaborn
+altair
+arabic-reshaper
+python-bidi
